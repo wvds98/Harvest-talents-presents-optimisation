@@ -1,0 +1,3 @@
+﻿  Exercise1.cpp
+C:\Users\wvds9\Documents\GitHub\Harvest-Talent-Presents-Optimisation\Harvest-Talent-Presents-Optimisation\Exercise1.cpp(44,30): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Harvest-Talent-Presents-Optimisation.vcxproj -> C:\Users\wvds9\Documents\GitHub\Harvest-Talent-Presents-Optimisation\x64\Debug\Harvest-Talent-Presents-Optimisation.exe
